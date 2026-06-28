@@ -1,0 +1,2 @@
+# fotokita-blur
+gabut
